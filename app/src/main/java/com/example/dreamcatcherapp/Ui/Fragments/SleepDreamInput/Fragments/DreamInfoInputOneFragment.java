@@ -76,7 +76,7 @@ public class DreamInfoInputOneFragment extends Fragment {
                     binding.linNeutralOn.setVisibility(View.INVISIBLE);
                     binding.linNeutralOff.setVisibility(View.VISIBLE);
                     binding.linNegativeOn.setVisibility(View.INVISIBLE);
-                    binding.linNegativeOff.setVisibility(View.VISIBLE);
+                    binding.linNegativeOff.setVisibility(View.VISIBLE)و;
                     binding.linPositiveOff.setVisibility(View.INVISIBLE);
                 }
 
